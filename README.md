@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+
+## Gantt Chart 
+https://sharing.clickup.com/9003251326/g/h/8ca5dky-202/50926eb0be4b07c
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
