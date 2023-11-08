@@ -3,7 +3,7 @@
 - Agung Wirayudha
 - Muhammad Lutfi Akmal
 - Muhammad Syahdan Abdillah
-- Zahri Cahya
+- Zahri Cahya Ramadhan
 
 
 ## Gantt Chart 
